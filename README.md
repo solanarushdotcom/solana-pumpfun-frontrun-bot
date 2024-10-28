@@ -1,5 +1,7 @@
 # SolanaRush
 
+![solanarush](https://github.com/user-attachments/assets/7b32cbdb-c057-4834-a673-71a5267af87a)
+
 SolanaRush is a frontrunner bot for the Solana blockchain, written in Node.js. The bot scans for profitable opportunities on the Solana network and executes transactions to gain a competitive advantage. It is designed for users who want to explore automated trading strategies in the Solana ecosystem.
 
 ## Features
