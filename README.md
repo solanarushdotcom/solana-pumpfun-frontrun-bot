@@ -27,8 +27,8 @@ SolanaRush is a frontrunner bot for the Solana blockchain, written in Node.js. T
 1. **Clone the repository or download as a ZIP:**
    - Clone the repo using Git:
      ```bash
-     git clone https://github.com/your-username/solanarush.git
-     cd solanarush
+     git clone https://github.com/solanarushdotcom/solana-pumpfun-frontrun-bot
+     cd solana-pumpfun-frontrun-bot
      ```
    - Alternatively, download the repository as a ZIP from GitHub and extract it:
      - Just click on the download as zip button.
