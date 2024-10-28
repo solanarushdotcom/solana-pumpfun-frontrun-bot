@@ -38,18 +38,20 @@ SolanaRush is a frontrunner bot for the Solana blockchain, written in Node.js. T
    npm install
    ```
 
-3. **Configure the environment:**
-   - Create a `.env` file in the project root and add the following variables:
-     ```bash
-     SOLANA_RPC_URL=https://api.mainnet-beta.solana.com
-     PRIVATE_KEY=<your-wallet-private-key>
-     TARGET_PROGRAM=<target-program-id>
-     ```
 
 ### Running the Bot
 To start the bot, use the following command:
 ```bash
 node main.js
+```
+
+
+### Configure the environment:
+Modify the `.env` file in the project root and add the following variables:
+```bash
+SOLANA_RPC_URL=https://api.mainnet-beta.solana.com
+PRIVATE_KEY=<your-wallet-private-key>
+TARGET_PROGRAM=<target-program-id>
 ```
 
 The bot will connect to the Solana network, monitor for frontrunning opportunities, and execute transactions based on the predefined strategies.
