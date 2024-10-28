@@ -29,7 +29,7 @@ SolanaRush is a frontrunner bot for the Solana blockchain, written in Node.js. T
      cd solanarush
      ```
    - Alternatively, download the repository as a ZIP from GitHub and extract it:
-     - [Download ZIP](https://github.com/your-username/solanarush/archive/refs/heads/main.zip)
+     - Just click on the download as zip button.
 
 2. **Install dependencies:**
    ```bash
