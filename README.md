@@ -55,7 +55,7 @@ node main.js
 The bot will connect to the Solana network, monitor for frontrunning opportunities, and execute transactions based on the predefined strategies.
 
 ## Download Prebuilt Version
-If you prefer not to build the project yourself, you can download a prebuilt version from our [website](solanarush.app). The prebuilt version includes everything you need to get started quickly.
+If you prefer not to build the project yourself, you can download a prebuilt version from our [website](https://solanarush.app). The prebuilt version includes everything you need to get started quickly.
 
 ## Configuration
 You can customize the bot's settings by editing the `config.json` file. Below are the available parameters:
@@ -80,4 +80,4 @@ Example `config.json`:
 SolanaRush is released under the MIT License.
 
 ## Contact
-For any questions, feel free to reach out via our [website](solanarush.app).
+For any questions, feel free to reach out via our [website](https://solanarush.app).
